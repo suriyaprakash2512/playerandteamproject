@@ -1,0 +1,7 @@
+D:\simplilearn projects - phase1\ConAppPlayerAndTeamRequirements\bin\Debug\ConAppPlayerAndTeamRequirements.exe.config
+D:\simplilearn projects - phase1\ConAppPlayerAndTeamRequirements\bin\Debug\ConAppPlayerAndTeamRequirements.exe
+D:\simplilearn projects - phase1\ConAppPlayerAndTeamRequirements\bin\Debug\ConAppPlayerAndTeamRequirements.pdb
+D:\simplilearn projects - phase1\ConAppPlayerAndTeamRequirements\obj\Debug\ConAppPlayerAndTeamRequirements.csproj.AssemblyReference.cache
+D:\simplilearn projects - phase1\ConAppPlayerAndTeamRequirements\obj\Debug\ConAppPlayerAndTeamRequirements.csproj.CoreCompileInputs.cache
+D:\simplilearn projects - phase1\ConAppPlayerAndTeamRequirements\obj\Debug\ConAppPlayerAndTeamRequirements.exe
+D:\simplilearn projects - phase1\ConAppPlayerAndTeamRequirements\obj\Debug\ConAppPlayerAndTeamRequirements.pdb
